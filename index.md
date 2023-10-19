@@ -4,16 +4,16 @@
 
 ### **Acción: Conectar Tu Wallet**
 
-*Descripción:* Para comenzar a disfrutar de todas las funcionalidades de nuestra plataforma, es necesario conectar tu wallet. Sigue estos pasos para hacerlo:
+_Descripción:_ Para comenzar a disfrutar de todas las funcionalidades de nuestra plataforma, es necesario conectar tu wallet. Sigue estos pasos para hacerlo:
 
 - Haz clic en el ícono de la cartera (wallet) en la esquina superior derecha de la pantalla.
 - Selecciona la opción "Conectar Wallet" en el menú desplegable.
 
-[https://gyazo.com/5a23d8460599d7196c57bb9286f99906](https://gyazo.com/5a23d8460599d7196c57bb9286f99906)
+[![Image from Gyazo][https://gyazo.com/5a23d8460599d7196c57bb9286f99906](https://gyazo.com/5a23d8460599d7196c57bb9286f99906)]
 
 - Aparecerán diferentes opciones de wallets compatibles. Elige la que estés utilizando. Recomendamos utilizar la opción de Metamask
 - Sigue las instrucciones para autorizar la conexión entre tu wallet y nuestra plataforma.
-- 
+-
 
 [https://gyazo.com/d41c0a6b437a3f7d43c447a06723b70e](https://gyazo.com/d41c0a6b437a3f7d43c447a06723b70e)
 
@@ -21,7 +21,7 @@
 
 ### **Acción: Invertir en una estrategia**
 
-*Descripción:* Para comenzar a invertir en una estrategia en nuestra plataforma, sigue estos pasos:
+_Descripción:_ Para comenzar a invertir en una estrategia en nuestra plataforma, sigue estos pasos:
 
 1. **Verificar Saldo:** Antes de comenzar, asegúrate de tener suficiente saldo en tu wallet. La cantidad mínima para invertir es 0.01 ETH en USDC.e . Aunque esta es la cantidad mínima, se recomienda considerar inversiones más substanciales para obtener mejores resultados.
 2. **Conectar Wallet:** Si aún no has conectado tu wallet, sigue las instrucciones mencionadas anteriormente en "Conectar Tu Wallet."
@@ -49,7 +49,7 @@ Una vez invertido podremos ver el estado de nuestras inversiones en el apartado 
 
 ### **Acción: Retirar Fondos de una Estrategia**
 
-*Descripción:* Para retirar fondos de una estrategia en nuestra plataforma, sigue estos sencillos pasos:
+_Descripción:_ Para retirar fondos de una estrategia en nuestra plataforma, sigue estos sencillos pasos:
 
 **Ingresar a la Estrategia:** En la sección "Mis Inversiones," selecciona la estrategia de la cual deseas retirar fondos haciendo clic en su nombre o título.
 
@@ -64,14 +64,12 @@ Una vez invertido podremos ver el estado de nuestras inversiones en el apartado 
 [https://gyazo.com/190b4ca7d4d9e1bfdf9df005e78f9f3b](https://gyazo.com/190b4ca7d4d9e1bfdf9df005e78f9f3b)
 
 - **Confirmar Retiro:**
-    - Confirma la transacción haciendo clic en el botón "Retirar" nuevamente.
+  - Confirma la transacción haciendo clic en el botón "Retirar" nuevamente.
 - **Autorizar Transacción:**
-    - Tu wallet conectada te solicitará autorización para realizar la transacción de retiro. Asegúrate de verificar los detalles antes de confirmar.
-    
-    [https://gyazo.com/da20585dcfd994e316bb6775b854518c](https://gyazo.com/da20585dcfd994e316bb6775b854518c)
-    
+  - Tu wallet conectada te solicitará autorización para realizar la transacción de retiro. Asegúrate de verificar los detalles antes de confirmar.
+  [https://gyazo.com/da20585dcfd994e316bb6775b854518c](https://gyazo.com/da20585dcfd994e316bb6775b854518c)
 
-Confirmaos la transacción y hablemos completado la retirada del dinero: 
+Confirmaos la transacción y hablemos completado la retirada del dinero:
 
 **Completar Retiro:**
 
