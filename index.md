@@ -2,7 +2,7 @@
 
 **Página principal**
 
-### **Acción: Conectar Tu Wallet**
+### **Acción: Conectar Tu Wallet V2**
 
 _Descripción:_ Para comenzar a disfrutar de todas las funcionalidades de nuestra plataforma, es necesario conectar tu wallet. Sigue estos pasos para hacerlo:
 
@@ -67,7 +67,7 @@ _Descripción:_ Para retirar fondos de una estrategia en nuestra plataforma, sig
   - Confirma la transacción haciendo clic en el botón "Retirar" nuevamente.
 - **Autorizar Transacción:**
   - Tu wallet conectada te solicitará autorización para realizar la transacción de retiro. Asegúrate de verificar los detalles antes de confirmar.
-  [https://gyazo.com/da20585dcfd994e316bb6775b854518c](https://gyazo.com/da20585dcfd994e316bb6775b854518c)
+    [https://gyazo.com/da20585dcfd994e316bb6775b854518c](https://gyazo.com/da20585dcfd994e316bb6775b854518c)
 
 Confirmaos la transacción y hablemos completado la retirada del dinero:
 
