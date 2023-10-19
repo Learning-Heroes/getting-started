@@ -21,7 +21,7 @@ En este ejemplo, enviaré ETH desde Binance a Metamask, pero se pueden aplicar l
 - Haz clic en el ícono de la cartera (wallet) en la esquina superior derecha de la pantalla.
 - Selecciona la opción "Conectar Wallet" en el menú desplegable.
 
-[https://gyazo.com/5a23d8460599d7196c57bb9286f99906](https://gyazo.com/5a23d8460599d7196c57bb9286f99906)
+![image](https://gyazo.com/5a23d8460599d7196c57bb9286f99906)
 
 - Aparecerán diferentes opciones de wallets compatibles. Elige la que estés utilizando. Recomendamos utilizar la opción de Metamask
 - Sigue las instrucciones para autorizar la conexión entre tu wallet y nuestra plataforma.
