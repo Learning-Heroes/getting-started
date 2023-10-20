@@ -12,7 +12,39 @@ Aquí hay cinco pasos para transferir criptomonedas desde Binance a su billetera
 
 En este ejemplo, enviaré ETH desde Binance a Metamask, pero se pueden aplicar los mismos pasos a otras criptomonedas. ( [Más información](https://www.binance.com/es/feed/post/76476) )
 
-### **Acción: Convertir tu ETH**
+### **Acción: Convierte tu ETH a USDC.e**
+
+- Accede a Uniswap: Abre tu navegador y ve a la siguiente dirección web: [https://app.uniswap.org/swap](https://app.uniswap.org/swap).
+- 
+  [![Image from Gyazo](https://i.gyazo.com/79210958696a27d8d8e78e309a26c97a.png)](https://gyazo.com/79210958696a27d8d8e78e309a26c97a)
+  
+- Conecta tu cartera: Para realizar la conversión, necesitas conectarte a tu cartera de criptomonedas. Asegúrate de tener una cartera como MetaMask configurada e instalada en tu navegador.
+- Selecciona la red de Arbitrum: En la parte superior de la página, busca la opción para seleccionar la red en la que deseas operar. Elije la red "Arbitrum" para realizar la transacción en esa red.
+
+  [![Image from Gyazo](https://i.gyazo.com/a62ecda1889cd7c69d545b117265b5b8.png)](https://gyazo.com/a62ecda1889cd7c69d545b117265b5b8)
+  
+- Elije la criptomoneda que vas a intercambiar: En la sección "Tu pagas", selecciona "ETH" como la criptomoneda que deseas intercambiar. Luego, haz clic en "Seleccionar Token" para especificar la criptomoneda con la que deseas intercambiar ETH.
+- Selecciona USDC.e: En el campo "Seleccionar Token", busca y elige "USDC.e". Esto establecerá que deseas recibir USDC.e a cambio de tu ETH.
+
+  [![Image from Gyazo](https://i.gyazo.com/23e2bc1af45e626ee2a748eb4ff0545c.png)](https://gyazo.com/23e2bc1af45e626ee2a748eb4ff0545c)
+  
+- Introduce la cantidad a intercambiar: Ingresa la cantidad de ETH que deseas convertir a USDC.e en el campo proporcionado.
+- Inicia el intercambio: Haz clic en el botón "Intercambiar". Esto generará una estimación del intercambio y los costos asociados.
+
+  [![Image from Gyazo](https://i.gyazo.com/f0d2e8c063fb855d4e5f3fabddbce678.png)](https://gyazo.com/f0d2e8c063fb855d4e5f3fabddbce678)
+  
+- Confirma la transacción: Revisa los detalles de la transacción, incluido el monto a intercambiar y las tarifas asociadas. Una vez que estés seguro de los detalles, confirma la transacción.
+
+  [![Image from Gyazo](https://i.gyazo.com/b8664428b4d07423cfa26db00b3255f3.png)](https://gyazo.com/b8664428b4d07423cfa26db00b3255f3)
+  
+- Autoriza la transacción en MetaMask: Después de confirmar la transacción en Uniswap, se abrirá una ventana emergente en MetaMask. Asegúrate de confirmar la transacción en tu cartera MetaMask.
+- Espera la confirmación: Una vez que hayas confirmado la transacción en MetaMask, deberás esperar a que se procese y se confirme en la red Arbitrum. Esto puede llevar un tiempo, dependiendo de la congestión de la red.
+
+  [![Image from Gyazo](https://i.gyazo.com/b13afd1b2c39d158f7a73302f332faef.png)](https://gyazo.com/b13afd1b2c39d158f7a73302f332faef)
+  
+- Listo para usar USDC.e: Una vez que la transacción se haya confirmado, habrás convertido con éxito tu ETH a USDC.e, y estarás listo para utilizar tu saldo de USDC.e según tus necesidades.
+
+Estas instrucciones con viñetas te ayudarán a realizar la conversión de ETH a USDC.e en Uniswap de manera efectiva. Asegúrate de seguir cada paso con cuidado para garantizar una transacción exitosa.
 
 ### **Acción: Conectar Tu Wallet**
 
