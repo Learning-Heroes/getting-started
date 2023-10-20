@@ -1,4 +1,4 @@
-# Guia de Uso The SmartSwan
+# Guia de Uso The SmartSwan V2
 
 ### **Acción: Transferir ETH de Binance a Metamask**
 
