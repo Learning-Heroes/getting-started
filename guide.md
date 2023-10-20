@@ -1,6 +1,6 @@
 # Guia de Uso The SmartSwan
 
-### **Acción: Transferir ETH de Binance a Metamask**
+## **Acción: Transferir ETH de Binance a Metamask**
 
 Aquí hay cinco pasos para transferir criptomonedas desde Binance a su billetera Metamask:
 
@@ -12,7 +12,25 @@ Aquí hay cinco pasos para transferir criptomonedas desde Binance a su billetera
 
 En este ejemplo, enviaré ETH desde Binance a Metamask, pero se pueden aplicar los mismos pasos a otras criptomonedas. ( [Más información](https://www.binance.com/es/feed/post/76476) )
 
-### **Acción: Convierte tu ETH a USDC.e**
+## **Acción: Convierte tu ETH de la red de Ethereum a USDC.e de la red de Arbitrum**
+- Accede a la web ([deBridge.com](https://app.debridge.finance/deswap?inputChain=1&outputChain=42161&inputCurrency=&outputCurrency=&amount=0))
+
+- Una vez dentro conecta tu cartera (Wallet), selecciona en from: "Ethereum" y la criptomoneda 'ETH'. Por otro lado, seleccione en to: "Arbitrum" y la criptomoneda USDC.e como se muestra en la imagen:
+
+  [![Image from Gyazo](https://i.gyazo.com/37a48316e20ab7b142293e5b17f8da00.png)](https://gyazo.com/37a48316e20ab7b142293e5b17f8da00)
+
+- Selecciona la cantidad a transferir y pulsa en "Create Trade"
+ 
+  [![Image from Gyazo](https://i.gyazo.com/da293b5d4753b65dbb51ab6aa9387f34.png)](https://gyazo.com/da293b5d4753b65dbb51ab6aa9387f34)
+
+- Aprobamos el gasto de las cryptomonedas y confirmamos las acciones en el Metamask:
+
+  [![Image from Gyazo](https://i.gyazo.com/149aeedc12dd5ddb2296f300a3ef8359.png)](https://gyazo.com/149aeedc12dd5ddb2296f300a3ef8359)
+
+  Tendrá que esperar a que se ejecute la transacción, esto puede llevar un tiempo y LISTO ya tiene su USDC.e en la red de Arbitrum.
+
+  
+## **Acción: Convierte tu ETH de la red de Arbitrum a USDC.e de la red de Arbitrum**
 
 - Accede a Uniswap: Abre tu navegador y ve a la siguiente dirección web: [https://app.uniswap.org/swap](https://app.uniswap.org/swap).
 - 
@@ -46,7 +64,7 @@ En este ejemplo, enviaré ETH desde Binance a Metamask, pero se pueden aplicar l
 
 Estas instrucciones con viñetas te ayudarán a realizar la conversión de ETH a USDC.e en Uniswap de manera efectiva. Asegúrate de seguir cada paso con cuidado para garantizar una transacción exitosa.
 
-### **Acción: Conectar Tu Wallet**
+## **Acción: Conectar Tu Wallet**
 
 *Descripción:* Para comenzar a disfrutar de todas las funcionalidades de nuestra plataforma, es necesario conectar tu wallet. Sigue estos pasos para hacerlo:
 
@@ -63,7 +81,7 @@ Estas instrucciones con viñetas te ayudarán a realizar la conversión de ETH a
 
 - ¡Listo! Tu wallet está ahora conectada y lista para ser utilizada en nuestra web
 
-### **Acción: Invertir en una estrategia**
+## **Acción: Invertir en una estrategia**
 
 *Descripción:* Para comenzar a invertir en una estrategia en nuestra plataforma, sigue estos pasos:
 
@@ -91,7 +109,7 @@ Estas instrucciones con viñetas te ayudarán a realizar la conversión de ETH a
 
 Una vez invertido podremos ver el estado de nuestras inversiones en el apartado ‘Mis Inversiones’
 
-### **Acción: Retirar Fondos de una Estrategia**
+## **Acción: Retirar Fondos de una Estrategia**
 
 *Descripción:* Para retirar fondos de una estrategia en nuestra plataforma, sigue estos sencillos pasos:
 
