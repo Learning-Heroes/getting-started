@@ -33,11 +33,12 @@ En este ejemplo, enviaré ETH desde Binance a Metamask, pero se pueden aplicar l
 ## **Acción: Convierte tu ETH de la red de Arbitrum a USDC.e de la red de Arbitrum**
 
 - Accede a Uniswap: Abre tu navegador y ve a la siguiente dirección web: [https://app.uniswap.org/swap](https://app.uniswap.org/swap).
-- 
+  
   [![Image from Gyazo](https://i.gyazo.com/79210958696a27d8d8e78e309a26c97a.png)](https://gyazo.com/79210958696a27d8d8e78e309a26c97a)
   
 - Conecta tu cartera: Para realizar la conversión, necesitas conectarte a tu cartera de criptomonedas. Asegúrate de tener una cartera como MetaMask configurada e instalada en tu navegador.
 - Selecciona la red de Arbitrum: En la parte superior de la página, busca la opción para seleccionar la red en la que deseas operar. Elije la red "Arbitrum" para realizar la transacción en esa red.
+- Es importante tener ETH de la red de arbitrum para pagar las tasas de uso de la red.
 
   [![Image from Gyazo](https://i.gyazo.com/a62ecda1889cd7c69d545b117265b5b8.png)](https://gyazo.com/a62ecda1889cd7c69d545b117265b5b8)
   
@@ -75,7 +76,6 @@ Estas instrucciones con viñetas te ayudarán a realizar la conversión de ETH a
 
 - Aparecerán diferentes opciones de wallets compatibles. Elige la que estés utilizando. Recomendamos utilizar la opción de Metamask
 - Sigue las instrucciones para autorizar la conexión entre tu wallet y nuestra plataforma.
-- 
 
 [![Image from Gyazo](https://i.gyazo.com/d41c0a6b437a3f7d43c447a06723b70e.png)](https://gyazo.com/d41c0a6b437a3f7d43c447a06723b70e)
 
